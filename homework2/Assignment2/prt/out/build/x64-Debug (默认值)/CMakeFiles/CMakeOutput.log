@@ -1,0 +1,143 @@
+The system is: Windows - 10.0.22000 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29337 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29337.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29337 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29337.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9d306 && [1/2] Building C object CMakeFiles\cmTC_9d306.dir\CMakeCCompilerABI.c.obj
+注意: 包含文件:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCompilerABI.h
+[2/2] Linking C executable cmTC_9d306.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_210eb && [1/2] Building CXX object CMakeFiles\cmTC_210eb.dir\CMakeCXXCompilerABI.cpp.obj
+注意: 包含文件:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCompilerABI.h
+[2/2] Linking CXX executable cmTC_210eb.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_45f15 && [1/2] Building C object CMakeFiles\cmTC_45f15.dir\CheckIncludeFile.c.obj
+注意: 包含文件:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+[2/2] Linking C executable cmTC_45f15.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_67d65 && [1/2] Building C object CMakeFiles\cmTC_67d65.dir\CheckIncludeFile.c.obj
+注意: 包含文件:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+注意: 包含文件:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+注意: 包含文件:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+注意: 包含文件:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+[2/2] Linking C executable cmTC_67d65.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_099f8 && [1/2] Building C object CMakeFiles\cmTC_099f8.dir\CheckIncludeFile.c.obj
+注意: 包含文件:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+注意: 包含文件:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+注意: 包含文件:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+注意: 包含文件:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+注意: 包含文件:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+[2/2] Linking C executable cmTC_099f8.exe
+
+
+
+Checking whether the ASM_MASM compiler is MSVC using "-?" matched "Microsoft":
+Microsoft (R) Macro Assembler (x64) Version 14.28.29337.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+        ML64 [ /options ] filelist [ /link linkoptions ]
+
+/Bl<linker> Use alternate linker          /Sf Generate first pass listing
+/c Assemble without linking               /Sl<width> Set line width
+/Cp Preserve case of user identifiers     /Sn Suppress symbol-table listing
+/Cx Preserve case in publics, externs     /Sp<length> Set page length
+/D<name>[=text] Define text macro         /Ss<string> Set subtitle
+/EP Output preprocessed listing to stdout /St<string> Set title
+/F <hex> Set stack size (bytes)           /Sx List false conditionals
+/Fe<file> Name executable                 /Ta<file> Assemble non-.ASM file
+/Fl[file] Generate listing                /w Same as /W0 /WX
+/Fm[file] Generate map                    /WX Treat warnings as errors
+/Fo<file> Name object file                /W<number> Set warning level
+/Fr[file] Generate limited browser info   /X Ignore INCLUDE environment path
+/FR[file] Generate full browser info      /Zd Add line number debug info
+/I<name> Add include path                 /Zf Make all symbols public
+/link <linker options and libraries>      /Zi Add symbolic debug info
+/nologo Suppress copyright message        /Zp[n] Set structure alignment
+/Sa Maximize source listing               /Zs Perform syntax check only
+/ZH:SHA_256 Use SHA256 for checksum
+    in debug info (experimental)
+/Gy[-] separate functions for linker
+/errorReport:<option> Deprecated. Report internal assembler errors to Microsoft
+    none - do not send report
+    prompt - prompt to immediately send report
+    queue - at next admin logon, prompt to send report
+    send - send report automatically
+Performing C++ SOURCE FILE Test SUPPORTS_VOLATILE_FLAG succeeded with the following output:
+Change Dir: D:/cg/games202/homework2/Assignment2/prt/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4dc0b && [1/2] Building CXX object CMakeFiles\cmTC_4dc0b.dir\src.cxx.obj
+[2/2] Linking CXX executable cmTC_4dc0b.exe
+
+
+Source file was:
+int main() { return 0; }

@@ -1,0 +1,13 @@
+prefix=D:/cg/games202/homework2/Assignment2/prt/out/install/x64-Debug (默认值)
+exec_prefix=D:/cg/games202/homework2/Assignment2/prt/out/install/x64-Debug (默认值)
+libdir=D:/cg/games202/homework2/Assignment2/prt/out/install/x64-Debug (默认值)/lib
+sharedlibdir=D:/cg/games202/homework2/Assignment2/prt/out/install/x64-Debug (默认值)/lib
+includedir=D:/cg/games202/homework2/Assignment2/prt/out/install/x64-Debug (默认值)/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.8
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
